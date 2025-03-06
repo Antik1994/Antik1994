@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 
 ![](https://komarev.com/ghpvc/?username=Antik1994)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=your-github-username&base=203)
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Antik1994&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Antik1994&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Antik1994&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Antik1994&base=203)
+![](https://komarev.com/ghpvc/?username=Antik1994&abbreviated=true)
